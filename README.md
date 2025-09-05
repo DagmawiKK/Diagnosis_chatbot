@@ -1,4 +1,4 @@
-# Respiratory Disease Diagnosis NeuroSymbolic AI
+# Diagnosis
 
 This project is a NeuroSymbolic Expert System for respiratory disease diagnosis. It combines symbolic reasoning (using MeTTa and a medical knowledge base) with sub-symbolic (LLM/Gemini) capabilities to answer both logical and descriptive medical queries.
 
